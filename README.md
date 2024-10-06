@@ -1,3 +1,3 @@
-# New project
+# $ E-commerce Frontend page
 
-This project was created from local system..
+This project was created by me to improve frontend Skills.
